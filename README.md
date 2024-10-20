@@ -10,6 +10,8 @@ https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR_Analytics.csv
 
 ## Dashboard
 
+https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR%20Analytics%20Dashboard.pdf
+
 ## Objectives:
 
 - Analyze employee attrition rates across various departments, age, salary etc.
@@ -17,3 +19,11 @@ https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR_Analytics.csv
 - Visualize trends in employee attrition over time.
 - Provide filters for department-wise and gender-wise analysis.
 - Offer actionable insights to help understand and address the reasons behind employee attrition.
+
+## Learnings:
+
+- **Data Visualization:** Enhanced ability to present complex data in an understandable and visually appealing manner using Power BI.
+- **Data Analysis:** Improved skills in analyzing data to identify trends, patterns, and insights.
+- **Dashboard Design:** Gained experience in designing interactive dashboards that facilitate user engagement and easy data exploration.
+- **Problem-Solving:** Enhanced ability to address specific challenges through data-driven solutions.
+- **Filtering and Interactivity:** Learned to implement interactive features like filters, enhancing user experience and data analysis capability.
