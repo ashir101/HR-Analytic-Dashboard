@@ -8,7 +8,7 @@ Developed an interactive HR Analytics dashboard using Power BI to analyze employ
 
 https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR_Analytics.csv
 
-## Dashboard
+## Dashboard Created:
 
 https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR%20Analytics%20Dashboard.pdf
 
