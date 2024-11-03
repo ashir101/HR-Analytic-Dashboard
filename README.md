@@ -24,6 +24,7 @@ https://github.com/ashir101/HR-Analytic-Dashboard/blob/main/HR%20Analytics%20Das
 
 - **Data Visualization:** Enhanced ability to present complex data in an understandable and visually appealing manner using Power BI.
 - **Data Analysis:** Improved skills in analyzing data to identify trends, patterns, and insights.
+- **Transform Data:** Extarcted and Cleaned data using the Power Query Editor.
 - **Dashboard Design:** Gained experience in designing interactive dashboards that facilitate user engagement and easy data exploration.
 - **Problem-Solving:** Enhanced ability to address specific challenges through data-driven solutions.
 - **Filtering and Interactivity:** Learned to implement interactive features like filters, enhancing user experience and data analysis capability.
